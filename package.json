@@ -1,0 +1,9 @@
+{
+  "name": "dynamic-form-validator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "test": "node --test test/validator.test.js"
+  }
+}
